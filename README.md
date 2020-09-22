@@ -1,5 +1,5 @@
-# **Instructions**
+# **STAR WARS**
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+* An activity for the UNCC Bootcamp. This activity teaches students about node/express, modeling functions like ReST methods and routes.
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
+* An element of this activity is deploying the completed application to Heroku, which is handled under a separate set of instructions
